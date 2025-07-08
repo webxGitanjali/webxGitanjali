@@ -4,7 +4,7 @@
 🖥️ Learning Python — but I also know a bit of C and C++  
 🎨 Self-taught video editor — I turn emotions into relatable reels  
 📚 Have explored cryptography, optimization, and the art of debugging  
-📸 I post K-drama & anime-inspired edits on [Instagram](https://www.instagram.com/i_editth/)
+📸 I post K-drama & anime-inspired edits on [Instagram](https://www.instagram.com/i_editth/) and [Youtube](https://www.youtube.com/@ieditth120)
 
 ✨ Not just code. It's how I express my version of order & chaos ✨
 
